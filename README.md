@@ -25,3 +25,7 @@
    ```bash
     npx expo start
    ```
+
+## Image
+
+![image](./assets/image.png)
